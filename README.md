@@ -1,4 +1,4 @@
-# NER_Posology_Extraction
+# NER Posology Extraction
 
 This repo performs Named Entity Recognition for Posology Data. The data comes from Anonymized Hospital Admission in France. 
 
